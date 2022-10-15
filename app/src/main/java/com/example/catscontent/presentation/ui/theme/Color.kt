@@ -1,4 +1,4 @@
-package com.example.catscontent.ui.theme
+package com.example.catscontent.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
